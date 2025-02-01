@@ -1,2 +1,1 @@
-olá, jogo do número secreto, estou te ouvindo, não consigo ve onde é
-melhor! .
+Este é o jogo do número secreto. O usuário irá chutando os números de acordo com as pistas. 
